@@ -20,7 +20,7 @@ Explore our free dataset previews, review the documentation, and discover commer
 | US Area Codes & Geographic Reference | [View Sample](https://github.com/ITAltitudesDataset/us-area-codes-dataset-preview) | [View Full Kit](https://italtitudes.gumroad.com/l/wehmwd) |
 | US CRE Loan Maturity & Risk | [View Sample](https://github.com/ITAltitudesDataset/us-cre-loan-maturity-risk-dataset-preview) | [View Full Kit](https://italtitudes.gumroad.com/l/cyvqx) |
 | Global Tariff Realignment | [View Sample](https://github.com/ITAltitudesDataset/Global-Tariff-Realignment-Dataset-Preview) | [View Full Kit](https://italtitudes.gumroad.com/l/iotszi) |
-| Geothermal Electricity Capacity | [View Sample](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset) | Source-rights review required |
+| Geothermal Electricity Capacity | [View Sample](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset) | [View Full Kit](https://italtitudes.gumroad.com/l/cncut) |
 
 *Free previews are limited samples. Full buyer kits may include additional records, documentation, and supporting worksheets.*
 
