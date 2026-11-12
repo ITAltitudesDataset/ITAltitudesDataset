@@ -99,4 +99,21 @@ IT Altitudes datasets are independently curated and documented using product-spe
 **Dataset Store:** https://italtitudes.gumroad.com  
 **Support:** support@italtitudesdataset.zohodesk.in
 
+---
+
+## Dataset Licensing & Usage
+
+IT Altitudes Inc. provides curated reference datasets for research, analytics, and development workflows.
+
+- Free GitHub previews are provided for evaluation, subject to applicable source rights and repository-specific terms.
+- Complete commercial buyer kits are available through our linked Gumroad product pages.
+- Resale or unauthorized redistribution of IT Altitudes' proprietary compilations and documentation is restricted under the applicable product license.
+- Original source materials remain subject to their respective rights and licensing conditions.
+- Datasets are static reference snapshots and should not replace verification against current official sources.
+
+**Please review the LICENSE and DISCLAIMER documents in each individual dataset repository before use.**
+
+For licensing inquiries: support@italtitudesdataset.zohodesk.in
+
+
 **IT Altitudes Inc. — Right Solutions @ Any Time**
